@@ -11,8 +11,10 @@
   "initialUrlPath": "/",
   "docsUrl": "https://auth0.com/docs/extensions/delegated-admin",
   "repository": "https://github.com/MatthewBacalakis/auth0-delegated-administration-extension",
-  "keywords": ["auth0", "extension"],
-  "codeUrl": "https://github.com/MatthewBacalakis/auth0-delegated-administration-extension/archive/master.zip",
+  "keywords": [
+    "auth0",
+    "extension"
+  ],
   "auth0": {
     "createClient": true,
     "onUninstallPath": "/.extensions/on-uninstall",
